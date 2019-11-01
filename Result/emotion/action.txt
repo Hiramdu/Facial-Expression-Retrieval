@@ -1,0 +1,24 @@
+left down       neutral happy
+right down		happy neutral
+right up		happy angry
+natural right	happy surprise
+left down		angry neutral
+right natural	surprise angry
+right natural	happy surprise
+natural left	angry surprise
+right up		neutral surprise
+left up			neutral angry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
